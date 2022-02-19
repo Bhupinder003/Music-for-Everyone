@@ -90,4 +90,7 @@ body{
         flex-direction: row;
         flex-wrap: wrap;
     }
+    .sectionB{
+        margin-top: 20px;
+    }
   }
