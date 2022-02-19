@@ -83,3 +83,11 @@ body{
 .center{
     text-align: center;
 }
+
+
+@media  (max-width: 600px) {
+    .container{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+  }
