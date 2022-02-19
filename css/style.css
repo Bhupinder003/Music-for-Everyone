@@ -90,9 +90,17 @@ body{
         flex-direction: row;
         flex-wrap: wrap;
     }
-    
     .sectionA p{
         padding-left: 10px;
         padding-right: 10px;
+    }
+    .sectionB{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .sectionB img{
+        height: 80%;
+        width: 80%;
     }
   }
