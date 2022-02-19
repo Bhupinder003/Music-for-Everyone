@@ -90,11 +90,9 @@ body{
         flex-direction: row;
         flex-wrap: wrap;
     }
-    .sectionB img{
-        margin-top: 20px;
-    }
+    
     .sectionA p{
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
   }
